@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="mahindra.Dashboard_Page"/>
+      <class name="mahindra.adminpanel"/>
+      <class name="mahindra.all_apis"/>
+      <class name="mahindra.Login_page"/>
+      <class name="mahindra.allinks"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

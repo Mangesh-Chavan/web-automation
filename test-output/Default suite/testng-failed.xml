@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="mahindra.Dashboard_Page">
+        <methods>
+          <include name="init"/>
+          <include name="TEST_10"/>
+          <include name="TEST_0000"/>
+          <include name="TEST_11"/>
+          <include name="TEST_09"/>
+          <include name="TEST_07"/>
+          <include name="TEST_08"/>
+          <include name="TEST_05"/>
+          <include name="TEST_06"/>
+          <include name="destroy"/>
+          <include name="TEST_04"/>
+          <include name="TEST_12"/>
+        </methods>
+      </class> <!-- mahindra.Dashboard_Page -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

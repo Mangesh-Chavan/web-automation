@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [SME360X]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Aggregator(failed)(failed)(failed)">
+    <classes>
+      <class name="selenium.scripts.SME.Aggregator.AggregatorToolSMEAssessmentDrilldownView">
+        <methods>
+          <include name="init"/>
+          <include name="test_04AssessmentReportTab"/>
+          <include name="test_02ViewSMEDetailsPage"/>
+          <include name="test_01SMEDetailsPage"/>
+        </methods>
+      </class> <!-- selenium.scripts.SME.Aggregator.AggregatorToolSMEAssessmentDrilldownView -->
+      <class name="selenium.scripts.SME.Aggregator.AggregatorToolAddandInviteSMEusers">
+        <methods>
+          <include name="init"/>
+          <include name="test_04AddSMESuccessfulPage"/>
+        </methods>
+      </class> <!-- selenium.scripts.SME.Aggregator.AggregatorToolAddandInviteSMEusers -->
+    </classes>
+  </test> <!-- Aggregator(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [SME360X]]] -->

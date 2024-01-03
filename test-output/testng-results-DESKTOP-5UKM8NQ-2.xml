@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T17:22:26 IST" name="Default suite" finished-at="2023-11-29T17:22:56 IST" duration-ms="30382">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T17:22:26 IST" name="Default test" finished-at="2023-11-29T17:22:56 IST" duration-ms="30382">
+      <class name="selenium.scripts.million.visit_page">
+        <test-method is-config="true" signature="init()[pri:0, instance:selenium.scripts.million.visit_page@3cd3e762]" started-at="2023-11-29T17:22:26 IST" name="init" finished-at="2023-11-29T17:22:33 IST" duration-ms="6714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="test_01_launch()[pri:0, instance:selenium.scripts.million.visit_page@3cd3e762]" started-at="2023-11-29T17:22:33 IST" name="test_01_launch" finished-at="2023-11-29T17:22:47 IST" duration-ms="13979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_launch -->
+        <test-method signature="test_02_AddProduct()[pri:0, instance:selenium.scripts.million.visit_page@3cd3e762]" started-at="2023-11-29T17:22:47 IST" name="test_02_AddProduct" finished-at="2023-11-29T17:22:56 IST" duration-ms="8801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02_AddProduct -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:selenium.scripts.million.visit_page@3cd3e762]" started-at="2023-11-29T17:22:56 IST" name="destroy" finished-at="2023-11-29T17:22:56 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- selenium.scripts.million.visit_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
